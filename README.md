@@ -1,3 +1,5 @@
+I've forked this project to experiment with the code.  Recommend using the original.
+
 # poet
 
 A simple POst-Exploitation Tool.
