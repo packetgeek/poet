@@ -1,8 +1,10 @@
 I've forked this project to experiment with the code.  Recommend using the original.
 
 ## To do
+
 * update server to accept multiple connections
 * implement web interface of some sort
+* beacons should be as self-contained as possible.  Minimize module use.  Another language, possibly?  Needs research.
 
 Original README.md follows.
 
