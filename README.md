@@ -1,5 +1,11 @@
 I've forked this project to experiment with the code.  Recommend using the original.
 
+## To do
+* update server to accept multiple connections
+* implement web interface of some sort
+
+Original README.md follows.
+
 # poet
 
 A simple POst-Exploitation Tool.
